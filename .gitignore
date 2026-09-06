@@ -1,0 +1,8 @@
+venv/
+data/raw/
+data/interim/
+data/processed/
+models/*.h5
+models/*.pkl
+__pycache__/
+.env
