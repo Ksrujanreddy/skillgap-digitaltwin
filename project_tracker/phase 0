@@ -1,0 +1,7 @@
+Folder structure exists exactly as listed above
+ (venv) activates cleanly and all packages installed without error
+ git push succeeded and the repo is visible on GitHub with .gitignore working correctly
+ docker ps shows both Postgres and Mongo containers running
+ You can connect to Postgres with a DB client
+ A tracker board exists with all 12 phases listed
+ README is committed
